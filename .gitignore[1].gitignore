@@ -1,0 +1,13 @@
+# Dépendances
+node_modules
+
+# Build de production
+dist
+
+# Cache Vite
+.vite
+
+# Fichiers système / locaux
+.DS_Store
+*.local
+npm-debug.log*
